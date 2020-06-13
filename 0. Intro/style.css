@@ -1,0 +1,21 @@
+body {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  color: #4285f4;
+}
+
+p {
+  color: #34a853;
+}
+
+label {
+  color: #fbbc05;
+}
+
+h2 {
+  color: #ea4335;
+}
