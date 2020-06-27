@@ -1,0 +1,13 @@
+Fanta ...What's your flavour?
+
+Fanta Orange, $2.22
+The fruity favourite. A bright and bubbly soft drink made with five percent juice. 
+
+Fanta Lemon, $2.35
+Give it some zing. A lively soft drink with a fresh and zesty flavour, made with five per cent lemon juice.
+
+Fanta Fruit Twist, $2.89
+Mix things up. A refreshing blast of fizz and fruit flavours, made with four percent juice.
+
+Fanta Orange Zero, $2.85
+The fruity favourite with zero-calories. A bright and bubbly soft drink made with five percent juice. 
